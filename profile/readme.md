@@ -6,5 +6,5 @@ In principe wordt er geen code, data of info open gepubliceerd, maar is dit een 
 
 Als er (later) wél iets open gepubliceerd gaat worden, gaat dat te vinden zijn in de GitHub of GitLab locaties van deze organisaties:
 
-- [GitHub/Kadaster-Labs](https://github.com/kadaster-labs)
-- [.../KvK](#)
+- [GitHub/Kadaster-Labs](https://github.com/kadaster-labs) | Check ook [Kadaster Innovatie](https://www.kadaster.nl/innovatie)
+- ( ✨ )  | Check ook [KvK Innovatie]([#](https://www.kvk.nl/runnen-en-groeien/projecten-innovatielab/))
